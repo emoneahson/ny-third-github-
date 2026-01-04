@@ -1,0 +1,18 @@
+*{
+    margin: 5px;
+    padding: 10px;
+
+}
+body {
+  background-image: url("image/rear-view-portrait-of-young-man-traveler-with-backpack-standing-on-a-mountain-with-arms-spread-open-travel-life-style-and-adventure-concept-free-photo.jpg");
+}
+.blog{
+    background-color: beige;
+    
+}
+.emon{
+    background-color: crimson;
+  font-size: xx-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: inherit;
+}
